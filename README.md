@@ -15,8 +15,7 @@
 
 ## Installation and usage
 1) Clone this repository  
-```
-```
+
 2) Install dependencies  
 ```
 cd social-media-app  
